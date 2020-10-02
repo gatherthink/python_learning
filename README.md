@@ -1,2 +1,2 @@
-# python_learning
-Python learning Jupyter Notebook
+# Python Learning
+Python learning Jupyter Notebooks
